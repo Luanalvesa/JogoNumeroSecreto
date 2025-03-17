@@ -1,0 +1,1 @@
+Prepare-se para um desafio divertido! No nosso novo jogo, você terá que adivinhar um número secreto gerado aleatoriamente pelo aplicativo. A cada tentativa, o aplicativo te dirá quantas vezes você já tentou, te ajudando a chegar mais perto da resposta certa.
